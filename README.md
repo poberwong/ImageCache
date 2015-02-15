@@ -1,2 +1,2 @@
 # ImageCache
-picture used in github
+pictures used in github
